@@ -37,4 +37,3 @@ if prediction[0] == 1:
 else:
     print(" no risk of a forest fire.")
 
-# You can now use the trained model for making predictions on new data.
